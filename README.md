@@ -5,7 +5,7 @@ It is not that easy so I have to record those process
 
 to remind me in next update
 
-##How did it all begin
+## How did it all begin
 
 I acquired this Mac Pro 2009 probably two or three years ago, and then, following various online tutorials, I managed to update it to macOS13.4.1 a few months ago
 
