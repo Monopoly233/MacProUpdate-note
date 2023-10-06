@@ -23,5 +23,7 @@ this problem can be fixed by safe boot, because my mac pro has no keyboard allow
 
 so just type this code in terminal 
 
-''' sudo nvram boot-args="-x"
+'''
+sudo nvram boot-args="-x" 
+'''
 when safe boot, it boot without any patch
